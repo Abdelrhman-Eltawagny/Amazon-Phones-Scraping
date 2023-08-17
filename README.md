@@ -5,7 +5,7 @@ Tools :
 
 -Selenium 
 
-Regural Expression 
+-Regural Expression 
 
-BeautifulSoup
+-BeautifulSoup
 
