@@ -3,7 +3,7 @@ This project is designed to scrape phone data from the Amazon website and organi
 
 Tools :
 
--Selenium 
+- Selenium 
 
 Regural Expression 
 
