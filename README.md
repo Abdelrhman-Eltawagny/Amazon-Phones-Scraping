@@ -1,4 +1,4 @@
-# Amazon-Phones-Scraping
+# Amazon Mobile Data Scraper
 ## Overview:
 This Python project is a web scraping tool designed to collect mobile phone data from Amazon.com. It leverages regular expressions, BeautifulSoup, and Selenium to scrape comprehensive data on mobile phones for any brand of interest. Users are empowered to specify their preferred mobile phone brand, enabling a highly customizable scraping experience.
 
